@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, me chamo Zoranildo Santos! Formado pela Universidade Federal do Ceará, tomei a decisão em 2018 de estudar Desenvolvimento Web. Estou envolvido com várias tecnologias tais como: JavaScript, Ruby on Rails, MongoDB, Postgresql, NodeJS, Docker, ReactJS, VueJS entre outras. Atualmente trabalho como Full-Stack Developer na Procuradoria Geral do Estado do Ceará.
+I am an experienced software developer. I really enjoy learning about new techniques and technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zoranildosantos)](https://www.linkedin.com/in/zoranildosantos)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zorasantos)](https://github.com/zorasantos)
