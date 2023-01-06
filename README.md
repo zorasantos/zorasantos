@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an experienced software developer. I really enjoy learning about new techniques and technologies.
+I am a experienced software developer. I really enjoy learning about new techniques and technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zoranildosantos)](https://www.linkedin.com/in/zoranildosantos)
 
@@ -8,7 +8,8 @@ I am an experienced software developer. I really enjoy learning about new techni
 
 ### Language:
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
 
 ### Frontend:
 
