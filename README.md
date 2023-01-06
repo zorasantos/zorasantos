@@ -3,6 +3,8 @@
 I am a experienced software developer. I really enjoy learning about new techniques and technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zoranildosantos)](https://www.linkedin.com/in/zoranildosantos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@MrZoranildo/videos)](https://www.youtube.com/@MrZoranildo/videos)
+
 
 ## Skills:
 
